@@ -1,6 +1,7 @@
 # node-js-sample
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
+Also steal from [fullPage.js](http://alvarotrigo.com/fullPage/). Awesome!
 
 ## Running Locally
 
